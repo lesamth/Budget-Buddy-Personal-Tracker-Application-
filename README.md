@@ -17,7 +17,8 @@ Budget Buddy is a gamified personal finance app that makes budgeting fun and eff
 7. [UI Overview](#ui-overview)  
 8. [References](#references)  
 9. [GitHub Usage](#github-usage)  
-10. [Vision](#vision)  
+10. [Vision](#vision)
+
 
 ---
 
