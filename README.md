@@ -6,7 +6,8 @@ Budget Buddy is a gamified personal finance app that makes budgeting fun and eff
 
 ---
 ## Link to The Youtube Video 
-- 
+- https://youtu.be/4HNU_B_4Zbw
+- https://youtu.be/OVdi3_r3hH4
 
 ## 📌 Table of Contents
 
