@@ -22,13 +22,13 @@ Budget Buddy is a gamified personal finance app that makes budgeting fun and eff
 
 ---
 
-## 📝 Description
+##  Description📝
 
 **Budget Buddy** is a fun, interactive, and gamified personal finance app developed by **Cosmic Developers**. It’s designed to help users track expenses, set savings goals, and manage money smarter with a user-friendly interface, data visualization, and AI-driven insights.
 
 ---
 
-## 🎯 Purpose
+##  Purpose🎯
 
 Budget Buddy was created to make personal finance management more **accessible**, **engaging**, and **effective**.
 
@@ -47,7 +47,7 @@ Most budgeting tools can feel overwhelming or tedious. Budget Buddy changes that
 
 ---
 
-## 🚀 Key Features
+##  Key Features🚀
 
 1. **Savings Goal Tracker** – Visualize progress and unlock milestones  
 2. **"In My Pocket" Tracker** – Real-time view of spendable cash after fixed expenses  
@@ -57,7 +57,7 @@ Most budgeting tools can feel overwhelming or tedious. Budget Buddy changes that
 
 ---
 
-## ⚙️ Core Functionality
+##  Core Functionality⚙️
 
 - 🔐 **User Authentication** – Secure login and encrypted data  
 - 💸 **Expense Management** – Add, categorize, and analyze spending  
@@ -67,7 +67,7 @@ Most budgeting tools can feel overwhelming or tedious. Budget Buddy changes that
 
 ---
 
-## ✨ Innovative Features
+##  Innovative Features✨
 
 ### 1. **Daily Expense Reminder**  
 A customizable reminder (e.g., 8 PM) to log expenses—encouraging consistent tracking and habit formation.
@@ -80,7 +80,7 @@ These summaries foster better reflection and smarter spending.
 
 ---
 
-## 🧠 Design Considerations
+##  Design Considerations🧠
 
 ### 1. **User-Centered Interface**
 - Simple, intuitive UI for quick logging and review  
@@ -105,7 +105,7 @@ These summaries foster better reflection and smarter spending.
 
 ---
 
-## 📱 UI Overview
+##  UI Overview📱
 
 - **Home** – Login/Sign-up  
 - **Dashboard** – Budget overview & recent transactions  
@@ -118,7 +118,7 @@ These summaries foster better reflection and smarter spending.
 
 ---
 
-## 📚 References
+##  References📚
 
 Inspired by the best in personal finance management:
 
@@ -129,7 +129,7 @@ Inspired by the best in personal finance management:
 
 ---
 
-## 🛠 GitHub Usage
+##  GitHub Usage🛠
 
 We used GitHub throughout development to:
 
@@ -140,7 +140,7 @@ We used GitHub throughout development to:
 
 ---
 
-## 🌟 Vision
+##  Vision🌟
 
 Budget Buddy seeks to revolutionize personal budgeting by making it:
 
